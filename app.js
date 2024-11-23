@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Primer render para DW4!
     </section>
   </body>
 </html>
